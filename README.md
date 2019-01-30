@@ -1,5 +1,8 @@
 # Choco (discord.js)
 
+[![Discord Bots](https://discordbots.org/api/widget/status/538554949471305738.svg)](https://discordbots.org/bot/538554949471305738/vote)
+[![Discord Bots](https://discordbots.org/api/widget/lib/538554949471305738.svg)](https://discordbots.org/bot/538554949471305738/vote)
+
 ## What is Choco?
 
 Choco is a normal discord bot (W.I.P), made in [discord.js](https://discord.js.org/). With **6** commands for now, More commands are coming in the next update!
