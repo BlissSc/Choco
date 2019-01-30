@@ -1,0 +1,33 @@
+{
+  "name": "Choco",
+  "version": "0.0.1",
+  "description": "Discord bot made in discord.js focused on fun!",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "discord.js": "^11.4.2",
+    "nekos.life": "^2.0.2",
+    "nodesu": "^0.6.4",
+    "moment-duration-format": "^2.2.2",
+    "moment": "^2.24.0",
+    "simple-youtube-api": "^5.1.1",
+    "ytdl-core": "^0.29.0",
+    "base-64": "^0.1.0",
+    "utf8": "^3.0.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://github.com/BlissSc/Choco"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
