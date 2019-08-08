@@ -1,3 +1,4 @@
+> Leaving: 17-9
 # Choco (discord.js)
 
 [![Discord Bots](https://discordbots.org/api/widget/status/538554949471305738.svg)](https://discordbots.org/bot/538554949471305738/vote)
